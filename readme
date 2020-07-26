@@ -1,0 +1,3 @@
+code for DehazeNet: An End-to-End System for Single Image Haze Removal
+you can use the pytorch model to predict the transmission
+and then use the matlab code to predict the hazefree image
